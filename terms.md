@@ -34,6 +34,6 @@ We may update the Add-on or these terms at any time. Continued use after a chang
 
 ## Contact
 
-sasha.boginsky@gmail.com
+columnfit-support@googlegroups.com
 
 [Home](./) · [Privacy Policy](privacy) · [Support](support)
