@@ -18,7 +18,7 @@ We grant you a non-exclusive, revocable license to use the Add-on within Google 
 
 ## Your data
 
-The Add-on reads and writes only the spreadsheet it is running in, using the `spreadsheets.currentonly` permission. See the [Privacy Policy](privacy) for details.
+The Add-on reads and writes only the spreadsheet it is running in, using the `spreadsheets.currentonly` permission. See the [Privacy Policy]({{ '/privacy' | relative_url }}) for details.
 
 ## No warranty
 
@@ -36,4 +36,4 @@ We may update the Add-on or these terms at any time. Continued use after a chang
 
 columnfit-support@googlegroups.com
 
-[Home](./) · [Privacy Policy](privacy) · [Support](support)
+[Home]({{ '/' | relative_url }}) · [Privacy Policy]({{ '/privacy' | relative_url }}) · [Support]({{ '/support' | relative_url }})
