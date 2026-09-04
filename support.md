@@ -36,4 +36,4 @@ columnfit-support@googlegroups.com
 
 If you were added as a draft tester and no longer want early access, fill out the ColumnFit Draft Tester Opt-Out form [here](https://forms.gle/5fvLmWC8kBh6u1Ym7) and you will be removed within two business days.
 
-[Home](./) · [Privacy Policy](privacy) · [Terms of Service](terms)
+[Home]({{ '/' | relative_url }}) · [Privacy Policy]({{ '/privacy' | relative_url }}) · [Terms of Service]({{ '/terms' | relative_url }})
