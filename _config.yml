@@ -4,6 +4,7 @@ plugins:
 title: ColumnFit
 description: Fit rows to the columns you choose
 baseurl: /ColumnFit
+url: https://sashadev-sky.github.io
 show_downloads: false
 github:
   is_project_page: false
