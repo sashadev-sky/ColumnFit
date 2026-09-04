@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: ColumnFit
+description: Fit rows to the columns you choose
+baseurl: /ColumnFit
+show_downloads: false
