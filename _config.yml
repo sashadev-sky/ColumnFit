@@ -11,3 +11,4 @@ show_downloads: false
 github:
   is_project_page: false
 logo: columnfit-icon-128.png
+permalink: pretty
