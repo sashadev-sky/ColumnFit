@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5B5BEA"/>
+      <stop offset="1" stop-color="#3730A3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- tile -->
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+
+  <!-- column of three cells, heights differ to read as "fit to content" -->
+  <g fill="#FFFFFF">
+    <rect x="26" y="22" width="36" height="18" rx="4"/>
+    <rect x="26" y="45" width="36" height="36" rx="4"/>
+    <rect x="26" y="86" width="36" height="20" rx="4"/>
+  </g>
+
+  <!-- wrapped text hint inside the tall cell -->
+  <g stroke="#4F46E5" stroke-width="3.5" stroke-linecap="round">
+    <line x1="32" y1="54" x2="56" y2="54"/>
+    <line x1="32" y1="63" x2="56" y2="63"/>
+    <line x1="32" y1="72" x2="48" y2="72"/>
+  </g>
+
+  <!-- vertical fit arrow -->
+  <g fill="#FFFFFF" stroke="#FFFFFF" stroke-linejoin="round">
+    <line x1="90" y1="36" x2="90" y2="92" stroke-width="9" stroke-linecap="round"/>
+    <polygon points="90,16 74,38 106,38"/>
+    <polygon points="90,112 74,90 106,90"/>
+  </g>
+</svg>
