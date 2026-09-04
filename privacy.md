@@ -38,4 +38,4 @@ We will update this page if the Add-on's data practices change.
 
 columnfit-support@googlegroups.com
 
-[Home](./) · [Terms of Service](terms) · [Support](support)
+[Home]({{ '/' | relative_url }}) · [Terms of Service]({{ '/terms' | relative_url }}) · [Support]({{ '/support' | relative_url }})
