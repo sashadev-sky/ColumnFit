@@ -3,4 +3,6 @@ title: ColumnFit
 description: Fit rows to the columns you choose
 baseurl: /ColumnFit
 show_downloads: false
+github:
+  is_project_page: false
 logo: columnfit-icon-128.png
