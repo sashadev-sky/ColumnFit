@@ -1,6 +1,5 @@
 @import "{{ site.theme }}";
 
-/* Hides the buttons block inside the header */
-.btn {
-  display: none !important;
+header {
+  display: none;
 }
