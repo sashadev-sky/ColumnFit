@@ -36,6 +36,6 @@ We will update this page if the Add-on's data practices change.
 
 ## Contact
 
-sasha.boginsky@gmail.com
+columnfit-support@googlegroups.com
 
 [Home](./) · [Terms of Service](terms) · [Support](support)
