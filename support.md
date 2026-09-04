@@ -30,7 +30,7 @@ Yes. Ctrl+Z / Cmd+Z reverts the row height change like any other edit.
 
 ## Report an issue
 
-[your email or GitHub Issues link]
+columnfit-support@googlegroups.com
 
 ## Draft tester opt-out
 
