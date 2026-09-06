@@ -4,9 +4,21 @@ title: ColumnFit
 
 # ColumnFit
 
-ColumnFit is a Google Sheets add-on that resizes every row to fit the wrapped text of the columns you select, ignoring the height demands of all other columns. Google Sheets has no per-column auto-fit, so ColumnFit estimates line counts from font metrics and column width and sets row heights to match.
+Resize rows to fit the tallest wrapped text in one or more selected columns in Google Sheets™.
 
-**How to use:** select one or more columns, then open Extensions → ColumnFit → Fit rows to selected columns. Make sure those columns use Wrap text.
+## Overview
+ColumnFit adjusts row heights in Google Sheets™ based on the wrapped text in the columns you choose. Each row’s height is calculated from its tallest wrapped text across those selected columns. Text in other columns does not influence the calculation.
+
+Use it when you want row heights to follow specific columns, such as notes or descriptions, without accommodating longer text elsewhere in the spreadsheet.
+
+How to use:
+1. Set text wrapping to Wrap for your target columns.
+2. Select one or more columns.
+3. Run ColumnFit → "Fit rows to selected columns" to resize the rows.
+
+Row heights are estimated using font metrics and column width. Calculations are tuned for Arial; other fonts may require calibration.
+
+Google Sheets™ is a trademark of Google LLC.
 
 - [Support](support)
 - [Privacy Policy](privacy)
