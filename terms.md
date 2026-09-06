@@ -4,7 +4,7 @@ title: ColumnFit Terms of Service
 
 # ColumnFit Terms of Service
 
-Last updated: September 03, 2026
+Last updated: September 06, 2026
 
 ColumnFit ("the Add-on") is an add-on for Google Sheets™ provided by Sasha Boginsky ("we", "us"). By installing or using the Add-on you agree to these terms.
 
