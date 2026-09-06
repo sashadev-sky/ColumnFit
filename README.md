@@ -10,7 +10,7 @@ Use it when you want row heights to follow specific columns, such as notes or de
 How to use:
 1. Set text wrapping to Wrap for your target columns.
 2. Select one or more columns.
-3. Run ColumnFit to resize the rows.
+3. Run ColumnFit → "Fit rows to selected columns" to resize the rows.
 
 Row heights are estimated using font metrics and column width. Calculations are tuned for Arial; other fonts may require calibration.
 
