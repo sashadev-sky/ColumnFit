@@ -6,7 +6,7 @@ title: ColumnFit Terms of Service
 
 Last updated: September 03, 2026
 
-ColumnFit ("the Add-on") is a Google Sheets add-on provided by Sasha Boginsky ("we", "us"). By installing or using the Add-on you agree to these terms.
+ColumnFit ("the Add-on") is an add-on for Google Sheets™ provided by Sasha Boginsky ("we", "us"). By installing or using the Add-on you agree to these terms.
 
 ## What the Add-on does
 
@@ -14,7 +14,7 @@ ColumnFit resizes rows in the spreadsheet where it is installed so that row heig
 
 ## License
 
-We grant you a non-exclusive, revocable license to use the Add-on within Google Sheets. You may not resell, sublicense, or redistribute it.
+We grant you a non-exclusive, revocable license to use the Add-on within Google Sheets™. You may not resell, sublicense, or redistribute it.
 
 ## Your data
 
