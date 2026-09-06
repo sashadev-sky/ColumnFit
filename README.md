@@ -14,4 +14,6 @@ How to use:
 
 Row heights are estimated using font metrics and column width. Calculations are tuned for Arial; other fonts may require calibration.
 
+---
+
 Google Sheets™ is a trademark of Google LLC.
