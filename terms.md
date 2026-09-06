@@ -36,4 +36,6 @@ We may update the Add-on or these terms at any time. Continued use after a chang
 
 columnfit-support@googlegroups.com
 
+Google Sheets™ is a trademark of Google LLC.
+
 [Home]({{ '/' | relative_url }}) · [Privacy Policy]({{ '/privacy' | relative_url }}) · [Support]({{ '/support' | relative_url }})
